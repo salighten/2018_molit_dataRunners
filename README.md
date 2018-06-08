@@ -1,5 +1,5 @@
 # 강남지역 교통흐름 극대화를 위한 제안
-2018 Molit Hackathon Team Data Runners 
+by 2018 Molit Hackathon Team Data Runners 
 
 ## Team Info
 * 성창현 : Team Leader
