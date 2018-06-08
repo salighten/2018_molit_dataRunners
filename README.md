@@ -2,7 +2,7 @@
 by 2018 Molit Hackathon Team Data Runners 
 
 ## Team Info
-* 성창현 : Team Leader
+* 성창현 : Team Leader, Data Analysis
 * 김태성 : Data Analysis
 * 한아향 : Data Analysis
 * 양민혁 : Data Analysis
